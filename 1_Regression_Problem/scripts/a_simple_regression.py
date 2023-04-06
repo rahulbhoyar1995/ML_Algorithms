@@ -13,8 +13,7 @@ class RegressionModel:
         df = pd.read_csv(csv_file_location)
         return df
     
-    @classmethod
-    def creating_training_data(cls, df):
+    
         
     
     
