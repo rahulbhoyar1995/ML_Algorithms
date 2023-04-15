@@ -32,12 +32,12 @@ The repository is organized into directories for each topic or algorithm. Each d
 
 The repository includes the following directories:
 
-* `classification`: code examples for binary and multiclass classification
-* `clustering`: code examples for clustering algorithms
-* `dimensionality-reduction`: code examples for dimensionality reduction techniques
-* `neural-networks`: code examples for artificial neural networks
-* `regression`: code examples for linear and logistic regression
-* `time-series`: code examples for time series analysis
+* `1_Regression_Problem`: code examples for binary and multiclass classification
+* `2_Classification_Problem`: code examples for clustering algorithms
+* `3_dimensionality-reduction`: code examples for dimensionality reduction techniques
+* `4_neural-networks`: code examples for artificial neural networks
+* `5_regression`: code examples for linear and logistic regression
+* `6_time-series`: code examples for time series analysis
 
 ## Contributing
 
