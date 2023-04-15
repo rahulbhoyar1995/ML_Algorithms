@@ -24,7 +24,7 @@ The repository includes implementations of various machine learning algorithms, 
 
 To use this repository, you can simply clone it using the following command:
 
-git clone 
+* "git clone "
 
 ## Usage
 
