@@ -1,10 +1,10 @@
 # ML Algorithms Repository
 
+Welcome to the Machine Learning Repository! This repository contains resources and examples related to machine learning.
+
 ### Author 
 
 Rahul Bhoyar
-
-Welcome to the Machine Learning Repository! This repository contains resources and examples related to machine learning.
 
 ## Table of Contents
 
@@ -23,6 +23,8 @@ The repository includes implementations of various machine learning algorithms, 
 ## Installation
 
 To use this repository, you can simply clone it using the following command:
+
+git clone 
 
 ## Usage
 
